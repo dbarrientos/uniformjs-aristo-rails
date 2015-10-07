@@ -18,6 +18,6 @@ Gem::Specification.new do |spec|
   spec.files         = Dir["{lib,vendor}/**/*"] + ["LICENSE", "README.md"]
   spec.require_paths = ["lib"]
 
-  spec.add_development_dependency "railties", "~> 4.2.0"
+  spec.add_dependency "railties", "~> 4.2.0"
 
 end
