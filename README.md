@@ -3,7 +3,7 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'uniformjs-rails'
+    gem 'uniformjs-aristo-rails'
 
 And then execute:
 
@@ -11,6 +11,6 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install uniformjs-rails
+    $ gem install uniformjs-aristo-rails
 
 
