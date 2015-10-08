@@ -4,6 +4,7 @@ module Uniformjs
   module Aristo
     module Rails
       class Engine < ::Rails::Engine
+      end
     end
   end
 end
